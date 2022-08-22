@@ -1,4 +1,4 @@
-Setup your env to start working with  the blockchain
+Setup your locla environment to start working with  the blockchain
 
 We're going to write a smart contract
 
